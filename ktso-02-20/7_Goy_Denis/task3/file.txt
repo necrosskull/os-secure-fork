@@ -1,0 +1,5 @@
+PID TTY          TIME CMD
+ 123631 pts/0    00:00:00 zsh
+ 125107 pts/0    00:00:00 server
+ 125190 pts/0    00:00:00 sh
+ 125192 pts/0    00:00:00 ps

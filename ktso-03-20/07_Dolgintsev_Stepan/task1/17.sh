@@ -1,0 +1,1 @@
+sysctl -a | grep core_count

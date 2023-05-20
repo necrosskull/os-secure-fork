@@ -1,0 +1,6 @@
+#!/bin/bash
+
+for (( var1 = 10; var1 >= 1; var1-- ))
+do
+echo -n "$var1 "
+done

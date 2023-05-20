@@ -1,0 +1,9 @@
+#!/bin/bash
+echo Enter any of seasons name
+read N
+if [ $N = "1" ] || [  $N = "2" ] || [  $N = "3" ] || [  $N = "4" ]
+then
+echo Correct!
+else
+echo Incorrect!
+fi

@@ -1,0 +1,18 @@
+echo Enter any of seasons name
+read N
+if [ $N = "1" ]
+then
+echo Correct!
+elif [  $N = "2" ]
+then
+echo Correct!
+elif [  $N = "3" ]
+then
+echo Correct!
+elif [  $N = "4" ]
+then
+echo Correct!
+else
+echo Incorrect!
+fi
+

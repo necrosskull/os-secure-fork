@@ -1,0 +1,14 @@
+#!/bin/bash
+echo Enter any season name
+read seas
+if [ $seas = "winter" ]
+then echo correct
+elif [ $seas = "summer" ]
+then echo correct and this one my favourite	
+elif [ $seas = "spring" ]
+then echo correct	
+elif [ $seas = "automn" ]
+then echo correct
+else echo incorrect
+fi
+

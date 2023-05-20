@@ -1,0 +1,11 @@
+#!/bin/bash
+echo "Enter login"
+read login
+echo "Enter password"
+read password
+if [ $login = "hup88" ] && [ $password = "hup" ]
+then
+echo "success auth!"
+else
+echo "auth failed!"
+fi

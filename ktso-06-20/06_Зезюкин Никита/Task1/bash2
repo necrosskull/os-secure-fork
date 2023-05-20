@@ -1,0 +1,3 @@
+#!/bin/bash
+echo -e "Text with newline\nText without newline"
+

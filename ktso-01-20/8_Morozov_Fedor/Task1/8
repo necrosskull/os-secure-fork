@@ -1,0 +1,11 @@
+#!/bin/bash
+echo Enter login
+read L
+echo Enter pass
+read P
+if [ $L = "Frostik" ] && [ $P = "iseedeadpeople" ]
+then
+echo success auth!
+else
+echo auth failed!
+fi 

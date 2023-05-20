@@ -1,0 +1,5 @@
+итого 24
+-rwxr-xr-x 1 fantomas fantomas 16912 июн  8 23:44 a.out
+-rw-r--r-- 1 fantomas fantomas  2317 июн  8 23:07 server.c
+-rw-r--r-- 1 fantomas fantomas     0 июн  8 23:07 Test.txt
+-rw-r--r-- 1 fantomas fantomas     0 июн  8 23:44 Vitalo.txt

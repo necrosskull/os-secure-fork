@@ -1,0 +1,9 @@
+#!/bin/bash
+echo enter login:
+read login
+echo enter passord:
+read pass
+if [ $login = "artemy" ] && [ $pass = "aboba" ]
+then echo success!
+else echo failed
+fi

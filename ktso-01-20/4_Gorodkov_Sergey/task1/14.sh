@@ -1,0 +1,11 @@
+#!/bin/bash
+function Sum() {
+    expr $1 + $2
+}
+
+echo -n "Enter First Number: "
+read var1
+echo -n "Enter Second Number: "
+read var2
+echo -n "Sum is: "
+Sum $var1 $var2

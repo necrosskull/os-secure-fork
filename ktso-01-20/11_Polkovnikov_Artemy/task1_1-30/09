@@ -1,0 +1,7 @@
+#!/bin/bash
+echo Enter any season name
+read seas
+if [ $seas = "winter" ] || [ $seas = "summer" ] || [ $seas = "spring" ] || [ $seas = "automn" ]
+then echo correct
+else echo incorrect
+fi
